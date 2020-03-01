@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About the Potted Blossom
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![](/img/img_2160.jpg)
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+When I was a kid my mom would take me to the greenhouse and we would pick out flowers to plant in her flower beds. I loved taking these little plants and watching them grow through out the season. This love of plants continued to grow through out my teenage years. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+When I went to college it took me a couple of years but I finally found the perfect degree for me. I graduated with a degree in Horticulture from Brigham Young University-Idaho and started working at a greenhouse in Idaho Falls, Idaho. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+In the last nine years I have found how much I enjoy working in a greenhouse and helping people plan and pick flowers for their yard. My favorite job as been the last five years of experience in designing and putting together customers flower pots. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Throughout college and the years since I have had an idea for my own potting business in the background. This business would be one were I would work with customers to help them find that perfect combination of flowers to brighten put up there yard. It is a business that works hard to put orders together in a timely manner and to craft each on with care.  I am excited to move forward with the Potted Blossom and providing you with beautiful creation for your home. 
+
+![]()
+
+```
+
+```
