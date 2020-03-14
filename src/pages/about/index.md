@@ -11,7 +11,7 @@ When I went to college it took me a couple of years but I finally found the perf
 
 In the last nine years I have found how much I enjoy working in a greenhouse and helping people plan and pick flowers for their yard. My favorite job as been the last five years of experience in designing and putting together customers flower pots. 
 
-Throughout college and the years since I have had an idea for my own potting business in the background. This business would be one were I would work with customers to help them find that perfect combination of flowers to brighten put up there yard. It is a business that works hard to put orders together in a timely manner and to craft each on with care.  I am excited to move forward with the Potted Blossom and providing you with beautiful creation for your home. 
+Throughout college and the years since I have had an idea for my own potting business in the background. This business would be one were I would work with customers to help them find that perfect combination of flowers to brighten put up their yard. It is a business that works hard to put orders together in a timely manner and to craft each on with care.  I am excited to move forward with the Potted Blossom and providing you with beautiful creation for your home. 
 
 ![]()
 
