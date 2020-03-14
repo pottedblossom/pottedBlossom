@@ -1,23 +1,16 @@
 ---
-heading: Great coffee with a conscience
+heading: Great service with a conscience
 path: /products
 templateKey: product-page
 title: Services
 image: /img/hanging-baskets.jpg
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Great service
 intro:
   blurbs:
     - image: /img/potting-prices.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Each container price is determined by the top diameter of the container.
+        Pricing includes all soil, bark, and plant feed. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
