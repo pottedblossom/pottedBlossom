@@ -17,12 +17,8 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |
+        We design custom flower containers for your house, patios or yard. 
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -44,8 +40,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: |+
-
+  description: >-
+    High quality flowers are used in each container brought to the Potted
+    Blossom. We offer quick and friendly service to our customers. We value
+    knowledge of plants and strive to pass that knowledge onto each customer. 
 main:
   heading: Great coffee with no compromises
   description: >
