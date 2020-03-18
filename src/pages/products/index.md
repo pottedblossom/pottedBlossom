@@ -7,10 +7,9 @@ image: /img/hanging-baskets.jpg
 description: Great service
 intro:
   blurbs:
-    - image: /img/potting-prices.png
-      text: >
-        Each container price is determined by the top diameter of the container.
-        Pricing includes all soil, bark, and plant feed. 
+    - image: /img/img_9833.jpg
+      text: |
+        Gerber Daisies with African Daisies (Osteospermum) 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
