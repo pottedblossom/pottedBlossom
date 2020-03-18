@@ -2,7 +2,7 @@
 heading: Personalized Containers
 path: /products
 templateKey: product-page
-title: Services
+title: Products
 image: /img/hanging-baskets.jpg
 description: >-
   We strive to find the best plants for each container and the lighting they
