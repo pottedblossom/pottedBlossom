@@ -44,32 +44,36 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Pricing is based off of the top diameter of the container.Prices below
+    include soil, bark, plant food, and labor. The cost of the plants is
+    additional to the potting price.  Please contact us for unique or odd shaped
+    containers. 
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Containers with a top size of 8 inches or less
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Soil
+        - Bark
+        - Fertilizer
+        - Plant care guide
+      plan: 10" or smaller
+      price: '5'
+    - description: Containers with a top of 11 inches to 12 inches
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Soil
+        - Bark
+        - Fertilizer
+        - Plant care guide
+      plan: 11"-12" Containers
+      price: '10'
+    - description: Containers with top size of 13 inch to 15 inch
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Soil
+        - Bark
+        - Fertilizer
+        - Plant care guide
+      plan: 13"-15" Containers
+      price: '12'
 ---
 
