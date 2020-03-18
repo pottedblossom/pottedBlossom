@@ -1,36 +1,32 @@
 ---
-heading: Great service with a conscience
+heading: Personalized Containers
 path: /products
 templateKey: product-page
 title: Services
 image: /img/hanging-baskets.jpg
-description: Great service
+description: >-
+  We strive to find the best plants for each container and the lighting they
+  will be in. Each plant is hand picked for your specific container. 
 intro:
   blurbs:
     - image: /img/img_9833.jpg
       text: |
         Gerber Daisies with African Daisies (Osteospermum) 
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: 'Sample of the containers we have designed. '
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Popular Plants
+  description: >-
+    The type of plant that goes into your container will depend largely on how
+    much light the plants will receive. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Sun Plants
     image: /img/products-grid3.jpg
   image2:
-    alt: remove this as well?
+    alt: Shade plants
     image: /img/products-grid2.jpg
   image3:
-    alt: Can we take this image out completely?
+    alt: Part sun
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
