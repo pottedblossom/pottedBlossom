@@ -28,10 +28,10 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: remove this as well?
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Can we take this image out completely?
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
