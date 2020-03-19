@@ -54,7 +54,7 @@ pricing:
         - Plant care guide
       plan: 8" or smaller
       price: '5'
-    - description: Containers with a top of 11 inches to 12 inches
+    - description: Containers with a top of 9 inches to 12 inches
       items:
         - Soil
         - Bark
@@ -62,7 +62,7 @@ pricing:
         - Plant care guide
       plan: 9"-12" Containers
       price: '10'
-    - description: Containers with top size of 13 inch to 15 inch
+    - description: Containers with top size of 13 inch to 18 inch
       items:
         - Soil
         - Bark
