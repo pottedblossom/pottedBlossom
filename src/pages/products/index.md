@@ -26,8 +26,8 @@ main:
     alt: Part sun
     image: /img/partsunflowers.jpg
   image3:
-    alt: Part sun
-    image: /img/products-grid1.jpg
+    alt: shadeflowers
+    image: /img/shadeflowers.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
