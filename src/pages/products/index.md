@@ -1,9 +1,9 @@
 ---
-heading: Personalized Containers
-path: /products
 templateKey: product-page
 title: Products
 image: /img/hanging-baskets.jpg
+heading: Personalized Containers
+path: /products
 description: >-
   We strive to find the best plants for each container and the lighting they
   will be in. Each plant is hand picked for your specific container. 
@@ -21,7 +21,7 @@ main:
     much light the plants will receive. 
   image1:
     alt: Sun Plants
-    image: /img/products-grid3.jpg
+    image: /img/fd5ab691-bcfe-46ba-b1ed-9c0d3dc26517.png
   image2:
     alt: Shade plants
     image: /img/products-grid2.jpg
