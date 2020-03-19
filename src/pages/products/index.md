@@ -52,7 +52,7 @@ pricing:
         - Bark
         - Fertilizer
         - Plant care guide
-      plan: 10" or smaller
+      plan: 8" or smaller
       price: '5'
     - description: Containers with a top of 11 inches to 12 inches
       items:
@@ -60,7 +60,7 @@ pricing:
         - Bark
         - Fertilizer
         - Plant care guide
-      plan: 11"-12" Containers
+      plan: 9"-12" Containers
       price: '10'
     - description: Containers with top size of 13 inch to 15 inch
       items:
@@ -68,7 +68,7 @@ pricing:
         - Bark
         - Fertilizer
         - Plant care guide
-      plan: 13"-15" Containers
-      price: '12'
+      plan: 13"-18" Containers
+      price: '15'
 ---
 
