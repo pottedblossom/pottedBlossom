@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Potted Blossom
-image: /img/begonias.jpg
+image: /img/blossom.png
 heading: Personalized Containers
 subheading: Adding color to life
 mainpitch:
